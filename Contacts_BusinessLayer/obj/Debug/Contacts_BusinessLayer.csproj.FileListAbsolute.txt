@@ -1,0 +1,9 @@
+D:\Programing\c#\ThreeTierArc_Projects\Contacts_BusinessLayer\bin\Debug\Contacts_BusinessLayer.dll
+D:\Programing\c#\ThreeTierArc_Projects\Contacts_BusinessLayer\bin\Debug\Contacts_BusinessLayer.pdb
+D:\Programing\c#\ThreeTierArc_Projects\Contacts_BusinessLayer\bin\Debug\Contacts_DataAccessLayer.dll
+D:\Programing\c#\ThreeTierArc_Projects\Contacts_BusinessLayer\bin\Debug\Contacts_DataAccessLayer.pdb
+D:\Programing\c#\ThreeTierArc_Projects\Contacts_BusinessLayer\obj\Debug\Contacts_BusinessLayer.csproj.AssemblyReference.cache
+D:\Programing\c#\ThreeTierArc_Projects\Contacts_BusinessLayer\obj\Debug\Contacts_BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Programing\c#\ThreeTierArc_Projects\Contacts_BusinessLayer\obj\Debug\Contacts_BusinessLayer.csproj.CopyComplete
+D:\Programing\c#\ThreeTierArc_Projects\Contacts_BusinessLayer\obj\Debug\Contacts_BusinessLayer.dll
+D:\Programing\c#\ThreeTierArc_Projects\Contacts_BusinessLayer\obj\Debug\Contacts_BusinessLayer.pdb
